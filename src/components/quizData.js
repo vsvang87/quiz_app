@@ -1,84 +1,211 @@
-export const quizzes = [
+export const quizData = [
   {
-    question: "What is 2 x 2?",
+    question: "Who are the first man and woman God created?",
     answer: [
       {
-        answerText: "5",
+        answerText: "Adam & Sarah",
         isCorrect: false,
       },
       {
-        answerText: "3",
+        answerText: "Adam & Lilith",
         isCorrect: false,
       },
       {
-        answerText: "4",
+        answerText: "Adam & Eve",
         isCorrect: true,
       },
       {
-        answerText: "6",
+        answerText: "Adam & Lara",
         isCorrect: false,
       },
     ],
   },
   {
-    question: "What is 5 x 5?",
+    question: "Who did God used to rescue Isreal from Egypt?",
+    answer: [
+      {
+        answerText: "Jeremaiah",
+        isCorrect: false,
+      },
+      {
+        answerText: "Hosea",
+        isCorrect: false,
+      },
+      {
+        answerText: "Moses",
+        isCorrect: true,
+      },
+      {
+        answerText: "Ezra",
+        isCorrect: false,
+      },
+    ],
+  },
+  {
+    question:
+      "How many years did the Isrealites spent in the desert after being rescued from Egypt?",
+    answer: [
+      {
+        answerText: "40 years",
+        isCorrect: true,
+      },
+      {
+        answerText: "45 years",
+        isCorrect: false,
+      },
+      {
+        answerText: "20 years",
+        isCorrect: true,
+      },
+      {
+        answerText: "30 years",
+        isCorrect: false,
+      },
+    ],
+  },
+  {
+    question: "Who lead the Isrealites after Moses?",
+    answer: [
+      {
+        answerText: "Caleb",
+        isCorrect: false,
+      },
+      {
+        answerText: "Joshua",
+        isCorrect: true,
+      },
+      {
+        answerText: "David",
+        isCorrect: false,
+      },
+      {
+        answerText: "Aaron",
+        isCorrect: false,
+      },
+    ],
+  },
+  {
+    question: "Who was the first king in Isreal?",
+    answer: [
+      {
+        answerText: "David",
+        isCorrect: false,
+      },
+      {
+        answerText: "Saul",
+        isCorrect: true,
+      },
+      {
+        answerText: "Hazakiel",
+        isCorrect: false,
+      },
+      {
+        answerText: "Absolum",
+        isCorrect: false,
+      },
+    ],
+  },
+  {
+    question: "Who is king Solomon's father?",
+    answer: [
+      {
+        answerText: "Saul",
+        isCorrect: false,
+      },
+      {
+        answerText: "David",
+        isCorrect: true,
+      },
+      {
+        answerText: "Nathan",
+        isCorrect: false,
+      },
+      {
+        answerText: "Isaiah",
+        isCorrect: false,
+      },
+    ],
+  },
+  {
+    question: "Who is Jesus?",
+    answer: [
+      {
+        answerText: "Healer",
+        isCorrect: false,
+      },
+      {
+        answerText: "Savior",
+        isCorrect: false,
+      },
+      {
+        answerText: "Son of God",
+        isCorrect: false,
+      },
+      {
+        answerText: "All the Above",
+        isCorrect: true,
+      },
+    ],
+  },
+  {
+    question: "Who is Peter?",
+    answer: [
+      {
+        answerText: "Stranger",
+        isCorrect: false,
+      },
+      {
+        answerText: "Apostle",
+        isCorrect: true,
+      },
+      {
+        answerText: "Roman Soldier",
+        isCorrect: false,
+      },
+      {
+        answerText: "Nobody",
+        isCorrect: false,
+      },
+    ],
+  },
+  {
+    question: "How many disciples did Jesus have?",
     answer: [
       {
         answerText: "10",
         isCorrect: false,
       },
       {
-        answerText: "20",
-        isCorrect: false,
-      },
-      {
-        answerText: "25",
+        answerText: "12",
         isCorrect: true,
       },
       {
-        answerText: "24",
+        answerText: "8",
+        isCorrect: false,
+      },
+      {
+        answerText: "11",
         isCorrect: false,
       },
     ],
   },
   {
-    question: "What is 10 x 10?",
+    question: "Who are Jesus's earthly parents?",
     answer: [
       {
-        answerText: "100",
+        answerText: "Joseph & Martha",
+        isCorrect: false,
+      },
+      {
+        answerText: "Joseph & Mary",
         isCorrect: true,
       },
       {
-        answerText: "90",
+        answerText: "Zachariah & Elizabeth",
         isCorrect: false,
       },
       {
-        answerText: "110",
-        isCorrect: true,
-      },
-      {
-        answerText: "95",
-        isCorrect: false,
-      },
-    ],
-  },
-  {
-    question: "What is 8 x 8?",
-    answer: [
-      {
-        answerText: "48",
-        isCorrect: false,
-      },
-      {
-        answerText: "64",
-        isCorrect: true,
-      },
-      {
-        answerText: "74",
-        isCorrect: false,
-      },
-      {
-        answerText: "80",
+        answerText: "Lazarus & Judith",
         isCorrect: false,
       },
     ],
