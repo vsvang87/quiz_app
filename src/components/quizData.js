@@ -1,6 +1,6 @@
 export const quizData = [
   {
-    question: "Who are the first man and woman God created?",
+    question: "Who are the first two God created?",
     answer: [
       {
         answerText: "Adam & Sarah",

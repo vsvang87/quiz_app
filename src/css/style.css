@@ -42,10 +42,12 @@
 .question-count {
   padding-bottom: 1rem;
   color: #fff;
+  font-size: 1.2rem;
 }
 .question-text {
   padding-bottom: 1rem;
   color: #fff;
+  font-size: 1.2rem;
 }
 .answer-section {
   display: flex;
@@ -61,6 +63,7 @@
   border-radius: 10px;
   cursor: pointer;
   transition: 0.15s ease-in-out;
+  font-size: 1.2rem;
 }
 .answer-btn:hover {
   background: rgb(255, 225, 190);
